@@ -112,4 +112,5 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
-    qcnvitems
+    qcnvitems \
+    com.android.hotwordenrollment.common.util
