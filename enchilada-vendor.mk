@@ -1292,6 +1292,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleWCD9340_SDM845 \
     NxpNfcNci \
     NxpSecureElement \
+    qti-telephony-common \
     QtiTelephonyService \
     uceShimService \
     ims \
