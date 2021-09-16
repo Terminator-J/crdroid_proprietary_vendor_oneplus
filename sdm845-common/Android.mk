@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter oneplus6,$(TARGET_DEVICE)),)
+ifneq ($(filter enchilada fajita,$(TARGET_DEVICE)),)
 
 endif
